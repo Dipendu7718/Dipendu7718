@@ -27,11 +27,11 @@
 <h4 align="left">⌨️ Languages:</h4>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnubash.svg" alt="bash" width="40" height="40"/>
   </a>
 </p>
 
@@ -39,11 +39,11 @@
 <h4 align="left">💻 Operating Systems:</h4>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
   <!-- &nbsp;
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
@@ -55,15 +55,15 @@
 <h4 align="left">🔧 Security Tools:</h4>
 <p align="left">
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
   </a>
-  &nbsp;
+ &nbsp;&nbsp;
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="45" height="45"/>
+    <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.virustotal.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/virustotal/virustotal-icon.svg" alt="virustotal" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/virustotal/virustotal-icon.svg" alt="virustotal" width="40" height="40"/>
   </a>
 </p>
 
@@ -71,9 +71,9 @@
 <h4 align="left">📊 SIEM & Log Analysis (Exploring):</h4>
 <p align="left">
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/>
   </a>
-  <!-- &nbsp;
+  <!-- &nbsp;&nbsp;
   <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic stack" width="45" height="45"/>
   </a> -->
@@ -83,15 +83,15 @@
 <h4 align="left">🛠️ Other Tools:</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
 </p>
 
